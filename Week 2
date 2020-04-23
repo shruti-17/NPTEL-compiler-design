@@ -1,0 +1,26 @@
+1)A regular expression represents?
+ans: Constituent string of language.
+2) When sum expression =3+2 is tokenized then what is the token category of 3?
+ans: Integer literal
+3)For the fortran language statement"DO 5I=1.25" returns token identifier for DO5?
+ans: .
+4)Which of the following are lexemmes?
+ans:All of the mentioned
+5)A regular expression foraccepting string withexactly one 1 more than 0's?
+ans:Not possible
+6)Which one of the following languages over alphabet {0,1}is described by regular expression (0+1)*0(0+1)*0(0+1)?
+ans:The set of all strings containing atleast 2 0's.
+7)Finite automation is an implementation of?
+ans: Regular expression
+8)The automation which allows transformation to a new state without consuming any input symbols?
+ans:NFA
+9)The __ set of states of P , of an NFA is defined as set of states reachable from any statein P following e transitions?
+ans:e closure
+10)Between NFA and DFA which one is powerful?
+ans:equally powerful
+11)Subset construction method refers to?
+ans:Conversion of NFA to DFA
+12)Which of the following do we use to form NFA from regular expression?
+ans:Thompson constrution method.
+13)A certain compiler corrects fi to if automatically. this is an example of?
+ans:Transpose Character.
