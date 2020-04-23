@@ -1,0 +1,20 @@
+1)Which of the following is alexical analysis tool?
+ans:all of the other
+2)In a lex specification ? file stands for?
+ans: none of the other
+3)Between NFA and DFA which has more potential to have states?
+ans:DFA
+4)Which of the following has more expressive power?
+ans:all the mentioned
+5)lex specification file are demarcated by?
+ans:%%
+6)e closure of state tables include?
+ans:all state reachable from it by e transition only.
+7)which among following is false?
+ans:none of the mentioned
+8)output of lex file is maintained in file name?
+ans:lex.yy.c
+9)all regular language can have one or more following descriptions?
+ans:NFA and Regular expressions
+10)Number of sections in lex program are?
+ans:3
