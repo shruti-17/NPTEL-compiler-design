@@ -1,0 +1,24 @@
+1) Which phase of compiler does not use NOT table?
+ans:None of the other options.
+2)Which phase of compiler is syntax analysis?
+ans:Second
+3)Output of syntax analysis is called?
+ans:Parse tree.
+4)A programming language does not allow integer division operation. This is generally detected in which phase?
+ans: semantic analysis
+5)Which of these is not true about Symbol Table?
+ans: perform the processing of assembler directives.
+6)A compiler can check?
+ans: syntax error
+7)Error recovery helps to?
+ans: Report multiple errors.
+8)Converting a hardware description into actual circuitory is known as?
+ans:Silicon Compilation.
+9)Loops are the major for optimization since?
+ans:Loop body is repeated to several times.
+10)For maximum speed of execution of targeted code,temporary variables be best allocated to?
+ans:CPU registers
+11)Intermediate code helps in?
+ans:Retargeting  code
+12)Output file of LEX is__input file is myfile?
+ans:Myfile.yy.c
